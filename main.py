@@ -1,6 +1,7 @@
 
 import discord
 import os
+import scripts.mongo as mongo
 from discord.ext import commands
 
 # Define Intents
